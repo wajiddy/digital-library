@@ -1,0 +1,31 @@
+# Node modules (if you ever add React later)
+node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# Optional: ignore large assets (uncomment if needed)
+# *.glb
+# *.obj
+# *.zip
