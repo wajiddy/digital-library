@@ -3,21 +3,260 @@
       "name": "Old Cabin",
       "location": "Louisiana",
       "year": 1890,
-      "description": "Historic wooden cabin",
-      "image": "https://via.placeholder.com/150"
+      "description": "Historic wooden cabin used by early settlers and documented as part of a rural preservation archive.",
+      "image": "https://picsum.photos/seed/oldcabin/600/400",
+      "embedUrl": "https://sketchfab.com/models/1d56d73aa3044ac8b0ada0bbf8d7dff7/embed",
+      "datasetType": "Photogrammetry Scan",
+      "scanNotes": "Exterior capture stitched from 124 photos."
     },
     {
-      "name": "Barn House",
-      "location": "Texas",
-      "year": 1920,
-      "description": "Classic rural barn",
-      "image": "https://via.placeholder.com/150"
+        "name": "Creole Cottage",
+        "location": "New Orleans, Louisiana",
+        "year": 1845,
+        "description": "Traditional Creole cottage representing early Louisiana urban architecture, featuring a steep roof, front-facing entrance, and compact symmetrical layout adapted to humid climates.",
+        "image": "https://picsum.photos/seed/creolecottagev2/600/400",
+        "embedUrl": "https://sketchfab.com/models/8791c5ed0b6c4366b4f4aae0a992b5fe/embed",
+        "datasetType": "Historic Architecture Reconstruction",
+        "scanNotes": "Representative cottage-style model selected to reflect Creole residential form with similar proportions and layout."
+      },
+    {
+      "name": "Baton Rouge Cottage",
+      "location": "Baton Rouge, Louisiana",
+      "year": 1911,
+      "description": "Historic Louisiana cottage with associated image records and simplified 3D model viewing support.",
+      "image": "https://picsum.photos/seed/batonrougecottage/600/400",
+      "embedUrl": "https://sketchfab.com/models/ceff67ca56cd47a6b5890f74325ddd7f/embed",
+      "datasetType": "Structured Mesh Dataset",
+      "scanNotes": "Using a cottage-type architectural model as a representative Baton Rouge cottage form."
     },
     {
-      "name": "Village Hut",
-      "location": "Mississippi",
-      "year": 1850,
-      "description": "Small wooden hut",
-      "image": "https://via.placeholder.com/150"
-    }
+      "name": "Cajun Homestead",
+      "location": "Lafayette, Louisiana",
+      "year": 1889,
+      "description": "Rustic homestead reflecting regional Cajun building traditions and digital preservation workflows.",
+      "image": "https://picsum.photos/seed/cajunhomestead/600/400",
+      "embedUrl": "https://sketchfab.com/models/3dcde1f226e5442d8cffebf958f267bf/embed",
+      "datasetType": "Photogrammetry Reconstruction",
+      "scanNotes": "Homestead-style architectural model used to represent multi-room rural residential structure."
+    },
+{
+  "name": "Natchitoches Cottage",
+  "location": "Natchitoches, Louisiana",
+  "year": 1858,
+  "description": "Historic cottage-inspired entry representing one of Louisiana’s oldest settlements.",
+  "image": "https://picsum.photos/seed/natchitochescottage/600/400",
+  "embedUrl": "https://sketchfab.com/models/d87c1492fdee4fcfb77f94169ddf3bd4/embed",
+  "datasetType": "3D Documentation Package",
+  "scanNotes": "Representative cottage model used for preservation-style viewing."
+},
+{
+  "name": "Garden District Cottage",
+  "location": "New Orleans, Louisiana",
+  "year": 1882,
+  "description": "Cottage-style residence inspired by historic New Orleans neighborhoods.",
+  "image": "https://picsum.photos/seed/gardendistrictcottage/600/400",
+  "embedUrl": "https://sketchfab.com/models/8791c5ed0b6c4366b4f4aae0a992b5fe/embed",
+  "datasetType": "Architectural Mesh",
+  "scanNotes": "Modern cottage form used as a stand-in for a preserved residential structure."
+},
+{
+  "name": "Bayou Cottage",
+  "location": "Houma, Louisiana",
+  "year": 1904,
+  "description": "Small bayou-region cottage included as a representative residential asset.",
+  "image": "https://picsum.photos/seed/bayoucottage/600/400",
+  "embedUrl": "https://sketchfab.com/models/af08f3b5cf38412e8b88802c8f0b961e/embed",
+  "datasetType": "Photogrammetry Reference",
+  "scanNotes": "Distinct cottage-style viewer entry with separate model geometry."
+},
+{
+  "name": "Plaquemine Cottage",
+  "location": "Plaquemine, Louisiana",
+  "year": 1896,
+  "description": "Historic cottage-style home representing river-town residential architecture.",
+  "image": "https://picsum.photos/seed/plaqueminecottage/600/400",
+  "embedUrl": "https://sketchfab.com/models/59c6a953ad254721b0548e237b182fc7/embed",
+  "datasetType": "Historic House Mesh",
+  "scanNotes": "Unique cottage entry added to diversify residential building types."
+},
+{
+  "name": "Riverbend Cabin",
+  "location": "Missouri",
+  "year": 1887,
+  "description": "Cabin entry representing timber construction near river landscapes.",
+  "image": "https://picsum.photos/seed/riverbendcabin/600/400",
+  "embedUrl": "https://sketchfab.com/models/b94dff1a8d6b4e0c9248831ca772f19a/embed",
+  "datasetType": "Photogrammetry Scan",
+  "scanNotes": "Historic cabin captured as a real-world photogrammetry model."
+},
+{
+  "name": "Pine Woods Cabin",
+  "location": "Mississippi",
+  "year": 1874,
+  "description": "Wooden cabin entry for pine-belt settlement architecture.",
+  "image": "https://picsum.photos/seed/pinewoodscabin/600/400",
+  "embedUrl": "https://sketchfab.com/models/b941d5ca24bd433fa752578343f896c1/embed",
+  "datasetType": "Low-Poly Cabin Model",
+  "scanNotes": "Separate wooden cabin asset used to avoid repeating the same model."
+},
+{
+  "name": "A-Frame Retreat",
+  "location": "North Carolina",
+  "year": 1961,
+  "description": "A-frame retreat included to show a different cabin-like building form.",
+  "image": "https://picsum.photos/seed/aframeretreat/600/400",
+  "embedUrl": "https://sketchfab.com/models/14c3fb0e1fb24aedb93fb409d819457b/embed",
+  "datasetType": "Architectural Visualization",
+  "scanNotes": "Triangular cabin form used as a distinct 3D residence type."
+},
+{
+  "name": "Frontier Lodge",
+  "location": "Colorado",
+  "year": 1885,
+  "description": "Frontier-style two-story lodge representing larger timber housing.",
+  "image": "https://picsum.photos/seed/frontierlodge/600/400",
+  "embedUrl": "https://sketchfab.com/models/ac5e0542f3f243f9939879f44b60f133/embed",
+  "datasetType": "Cabin Structure Model",
+  "scanNotes": "Two-story cabin model used for a more substantial frontier building."
+},
+{
+  "name": "Lafayette Farm House",
+  "location": "Lafayette, Louisiana",
+  "year": 1892,
+  "description": "Farmhouse-style home representing rural residential architecture in south Louisiana.",
+  "image": "https://picsum.photos/seed/lafayettefarmhouse/600/400",
+  "embedUrl": "https://sketchfab.com/models/3babc4b03c0744bd956d9b87861552bd/embed",
+  "datasetType": "Farmhouse Model",
+  "scanNotes": "Farmhouse asset selected for a classic rural building profile."
+},
+{
+  "name": "Acadian Farmhouse",
+  "location": "Breaux Bridge, Louisiana",
+  "year": 1879,
+  "description": "Acadian-inspired farmhouse entry for rural domestic architecture.",
+  "image": "https://picsum.photos/seed/acadianfarmhouse/600/400",
+  "embedUrl": "https://sketchfab.com/models/64c9047bb805422faabf32e07b20db2b/embed",
+  "datasetType": "Residential Structure Mesh",
+  "scanNotes": "Different farmhouse model used to keep building forms unique."
+},
+{
+  "name": "River Parish Farmhouse",
+  "location": "LaPlace, Louisiana",
+  "year": 1918,
+  "description": "Representative rural farmhouse for Louisiana river parish housing.",
+  "image": "https://picsum.photos/seed/riverparishfarmhouse/600/400",
+  "embedUrl": "https://sketchfab.com/models/d4aa7a3a3ae74263abc0d8e8052b1bd2/embed",
+  "datasetType": "Modern Farmhouse Model",
+  "scanNotes": "Used as a farmhouse-style proxy for a documented rural home."
+},
+{
+  "name": "Prairie Farm House",
+  "location": "Nebraska",
+  "year": 1901,
+  "description": "Farm house model representing agricultural settlement architecture.",
+  "image": "https://picsum.photos/seed/prairiefarmhouse/600/400",
+  "embedUrl": "https://sketchfab.com/models/92f179df9d0c44998f2a5bfe5197526b/embed",
+  "datasetType": "Rural Home Model",
+  "scanNotes": "Farm house form selected to match prairie homestead typology."
+},
+{
+  "name": "Heritage Farm House",
+  "location": "Kansas",
+  "year": 1907,
+  "description": "Rural farm residence included to broaden the library’s house types.",
+  "image": "https://picsum.photos/seed/heritagefarmhouse/600/400",
+  "embedUrl": "https://sketchfab.com/models/3921c257801c47eea88bbb4aebc183cd/embed",
+  "datasetType": "3D Rural Home Model",
+  "scanNotes": "Representative farmhouse used for rural domestic documentation."
+},
+{
+  "name": "Shreveport Bungalow",
+  "location": "Shreveport, Louisiana",
+  "year": 1921,
+  "description": "Bungalow-style home representing early 20th-century residential growth.",
+  "image": "https://picsum.photos/seed/shreveportbungalow/600/400",
+  "embedUrl": "https://sketchfab.com/models/10afb1e23e334f6ca68026f1ef2e7b38/embed",
+  "datasetType": "Bungalow House Model",
+  "scanNotes": "Distinct bungalow asset chosen for a different residential profile."
+},
+{
+  "name": "Lake Charles Bungalow",
+  "location": "Lake Charles, Louisiana",
+  "year": 1926,
+  "description": "Southwest Louisiana bungalow entry for a compact residential form.",
+  "image": "https://picsum.photos/seed/lakecharlesbungalow/600/400",
+  "embedUrl": "https://sketchfab.com/models/fa3b8ec4a94647349d8dd8351ea697bd/embed",
+  "datasetType": "Wooden Bungalow Model",
+  "scanNotes": "Different bungalow model used to keep every entry visually distinct."
+},
+{
+  "name": "Monroe Bungalow",
+  "location": "Monroe, Louisiana",
+  "year": 1930,
+  "description": "Monroe-area bungalow stand-in for mid-size residential documentation.",
+  "image": "https://picsum.photos/seed/monroebungalow/600/400",
+  "embedUrl": "https://sketchfab.com/models/0a0a7c21b3024a93a134b36ec8a4ca98/embed",
+  "datasetType": "Residential BIM Export",
+  "scanNotes": "Two-bedroom bungalow model used as a representative structure."
+},
+{
+  "name": "Northshore Bungalow",
+  "location": "Mandeville, Louisiana",
+  "year": 1924,
+  "description": "Northshore bungalow entry included for variation in Louisiana housing types.",
+  "image": "https://picsum.photos/seed/northshorebungalow/600/400",
+  "embedUrl": "https://sketchfab.com/models/8ebe89573d6947ea8d0fbcfb95ee0a68/embed",
+  "datasetType": "Architectural Exterior Model",
+  "scanNotes": "Separate bungalow model chosen for stylistic variety."
+},
+{
+  "name": "St. Francisville Chapel",
+  "location": "St. Francisville, Louisiana",
+  "year": 1871,
+  "description": "Small chapel-style structure used to represent religious architecture in the archive.",
+  "image": "https://picsum.photos/seed/stfrancisvillechapel/600/400",
+  "embedUrl": "https://sketchfab.com/models/57812fed4770451ca102a7784e028064/embed",
+  "datasetType": "Ecclesiastical Structure Model",
+  "scanNotes": "Baroque church model used as a stand-in for a historic chapel entry."
+},
+{
+  "name": "Rural Parish Church",
+  "location": "Louisiana",
+  "year": 1903,
+  "description": "Representative church structure for a rural parish documentation example.",
+  "image": "https://picsum.photos/seed/ruralparishchurch/600/400",
+  "embedUrl": "https://sketchfab.com/models/2b04f2366f83428794137d61d9212c97/embed",
+  "datasetType": "Religious Building Mesh",
+  "scanNotes": "Modern church form added to vary the building collection."
+},
+{
+  "name": "Bayou Windmill",
+  "location": "South Louisiana",
+  "year": 1895,
+  "description": "Windmill entry representing rural utility structures documented alongside buildings.",
+  "image": "https://picsum.photos/seed/bayouwindmill/600/400",
+  "embedUrl": "https://sketchfab.com/models/eb5dd21563cb49de9428e26a1fb6b510/embed",
+  "datasetType": "Photogrammetry Utility Structure",
+  "scanNotes": "Small windmill model used for agricultural site interpretation."
+},
+{
+  "name": "Heritage Windmill",
+  "location": "Rural Museum Collection",
+  "year": 1888,
+  "description": "Historic windmill-type structure added to broaden the archive beyond houses.",
+  "image": "https://picsum.photos/seed/heritagewindmill/600/400",
+  "embedUrl": "https://sketchfab.com/models/eda74d6e555043feb554567c3dcd4af3/embed",
+  "datasetType": "Photogrammetry Scan",
+  "scanNotes": "Public windmill scan used as a representative heritage utility building."
+},
+{
+  "name": "Western Mill House",
+  "location": "Arkansas",
+  "year": 1910,
+  "description": "Mill-like rural structure included to diversify documented wooden architecture.",
+  "image": "https://picsum.photos/seed/westernmillhouse/600/400",
+  "embedUrl": "https://sketchfab.com/models/ca1836908fd14b088520a3030294089e/embed",
+  "datasetType": "Stylized Heritage Structure",
+  "scanNotes": "Western windmill asset used to represent a historic mill-related structure."
+}
   ]
