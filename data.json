@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Old Cabin",
+      "location": "Louisiana",
+      "year": 1890,
+      "description": "Historic wooden cabin",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Barn House",
+      "location": "Texas",
+      "year": 1920,
+      "description": "Classic rural barn",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "Village Hut",
+      "location": "Mississippi",
+      "year": 1850,
+      "description": "Small wooden hut",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
